@@ -1,0 +1,1 @@
+import{a6 as h,a7 as k,a8 as L,L as S,a9 as T}from"./template.BK_v_5TK.js";function u(r,a){return r===a||r?.[T]===a}function d(r={},a,f,b){return h(()=>{var i,s;return k(()=>{i=s,s=b?.()||[],L(()=>{r!==f(...s)&&(a(r,...s),i&&u(f(...i),r)&&a(null,...i))})}),()=>{S(()=>{s&&u(f(...s),r)&&a(null,...s)})}}),r}export{d as b};
