@@ -1,1 +1,0 @@
-import{q as b,u as h,v as k,w as q,S as T}from"./template.CbwEp4oG.js";function u(r,i){return r===i||r?.[T]===i}function d(r={},i,a,S){return b(()=>{var f,s;return h(()=>{f=s,s=S?.()||[],k(()=>{r!==a(...s)&&(i(r,...s),f&&u(a(...f),r)&&i(null,...f))})}),()=>{q(()=>{s&&u(a(...s),r)&&i(null,...s)})}}),r}export{d as b};
