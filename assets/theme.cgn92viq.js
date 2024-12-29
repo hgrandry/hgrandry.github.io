@@ -1,1 +1,0 @@
-import{w as n}from"./index.BCK9oKRt.js";const o="dark",a=()=>{if(typeof localStorage<"u"){const e=localStorage.getItem("theme");if(e)return e}return o},t=n(o);typeof window<"u"&&(t.set(a()),t.subscribe(e=>{localStorage.setItem("theme",e),document.documentElement.setAttribute("data-theme",e)}));export{t};
