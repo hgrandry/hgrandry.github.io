@@ -1,1 +1,0 @@
-import{e as b,d,u as h,S as k}from"./runtime.D0cKiUdn.js";import{q}from"./template.xghE3FVS.js";function u(r,s){return r===s||r?.[k]===s}function c(r={},s,a,S){return b(()=>{var f,i;return d(()=>{f=i,i=S?.()||[],h(()=>{r!==a(...i)&&(s(r,...i),f&&u(a(...f),r)&&s(null,...f))})}),()=>{q(()=>{i&&u(a(...i),r)&&s(null,...i)})}}),r}export{c as b};
